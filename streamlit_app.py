@@ -1,1 +1,1 @@
-this is my first pythons cript
+created the main python file
